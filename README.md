@@ -1,4 +1,4 @@
-# KonjiPlannerv2.16
+# YTPlanner v1.0.0
 This toolkit automatically analyses your video transcripts (SRT files) and produces a ready-to-use Video Editors cut plan
 
 1. What This System Does
