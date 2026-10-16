@@ -25,7 +25,8 @@ This toolkit automatically analyses your video transcripts (SRT files) and produ
     Override -NicheName, -ChannelBlurb, -WhisperInitialPrompt, -PlaceRepairMapPath,
     -RiskyPlaceNames, etc. for other niches without editing the script body.
 
-    Download Link: https://github.com/olafrancis/SocialMediaPlannersv1.0.0/releases/download/YTkonji/YTkonjiStudioManager_v2.19_Setup.-.WinOS_7+.exe
+Download Link: 
+	https://github.com/olafrancis/SocialMediaPlannersv1.0.0/releases/download/YTkonji/YTkonjiStudioManager_v2.19_Setup.-.WinOS_7+.exe
 	
 .SYNOPSIS - YTKonje Studio Manager v2.13
 
@@ -42,4 +43,5 @@ This toolkit automatically analyses your video transcripts (SRT files) and produ
 	
 
 
-Download Link: https://github.com/olafrancis/SocialMediaPlannersv1.0.0/releases/download/YTKonje/YTkonjeStudioManager_v2.13_Setup.exe.-.WinOS.7+
+Download Link: 
+	https://github.com/olafrancis/SocialMediaPlannersv1.0.0/releases/download/YTKonje/YTkonjeStudioManager_v2.13_Setup.exe.-.WinOS.7+
